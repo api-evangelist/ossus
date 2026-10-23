@@ -5,7 +5,7 @@
       "source": "https://www.ossus.com/blog/feed.xml",
       "feed_url": "https://www.ossus.com/blog/feed.xml",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -16,6 +16,13 @@
       "method": "discovered"
     },
     {
+      "source": "https://ossus.com/blog/feed.xml",
+      "feed_url": "https://ossus.com/blog/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.ossus.com",
       "feed_url": "https://www.ossus.com",
       "title": "",
@@ -23,6 +30,6 @@
       "method": "none"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-10-10T13:15:00Z"
+  "post_count": 15,
+  "fetched": "2026-10-17T14:53:57Z"
 }
